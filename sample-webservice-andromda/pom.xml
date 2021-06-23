@@ -703,7 +703,7 @@
         Spring cartridge only works with hibernate3.
         <hibernate.version>4.1.4.Final</hibernate.version-->
         <hibernate.version>3.6.9.Final</hibernate.version>
-        <jetty.version>8.1.4.v20120524</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
         <spring.version>3.1.1.RELEASE</spring.version>
         <!-- SCM user ID and Password here, or in user specific settings.xml file -->
         <username></username>
